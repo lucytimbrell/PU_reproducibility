@@ -1,0 +1,13 @@
+﻿Observer,Days_between_training_testing,Lithics_experience_yrs,CO_experience_yrs,QM_experience_yrs,Career_stage,Continent,Continent_training,Continent_research,PU_familiarity,PU_experience,PU_application
+1,21,16,16,16,Postdoctoral,Europe,Europe,Asia,No,No,No
+2,53,31,23,23,Professor,North America,North America,Africa,Yes,No,No
+3,16,15,12,15,Postdoctoral,Europe,Europe,Africa/Europe,Yes,No,No
+4,45,17,17,10,Permanent,Europe,Europe,Africa,No,No,No
+5,24,12,7,12,Postdoctoral,Africa,Australia,Africa,Yes,No,No
+6,24,17,17,17,Permanent,Africa,Europe,Africa,No,No,No
+7,80,16,0,16,Permanent,Europe,Europe,Arabia/Africa/Mediterranean,No,No,No
+8,24,8,8,5,Permanent,Europe,Europe,Africa/Europe,Yes,No,No
+9,49,11,7,7,Postdoctoral,Africa,Europe,Africa,No,No,No
+10,21,22,3,16,Professor,North America,Africa,Africa/North America,Yes,No,No
+11,22,2,2,1,PhD,Europe,Europe,Africa/Europe,No,No,No
+12,23,6,2,4,PhD,Europe,Europe,Europe,No,No,No
